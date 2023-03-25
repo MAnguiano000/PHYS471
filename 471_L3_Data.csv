@@ -1,4 +1,4 @@
-﻿Intensity (TW/cm2),std_Intensity (TW/cm2),Num. of electron,std_Num. of electron,fitted line
+Intensity,std_Intensity,Num. of electron,std_Num. of electron,fitted line
 2.921656638,0.163881094,43.36209181,20.54631572,44.36298587
 3.90321953,0.160882134,62.77287001,19.77654773,62.40931754
 4.492953434,0.181041205,88.50103746,19.51920483,73.66427641
